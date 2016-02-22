@@ -28,7 +28,8 @@
     "win32"
   ],
   "dependencies": {
-    "debug": "~2.2.0"
+    "debug": "~2.2.0",
+    "lodash": "^4.5.0"
   },
   "optionalDependencies": {
     "bluetooth-hci-socket": "~0.4.1",
